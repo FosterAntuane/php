@@ -1,7 +1,7 @@
 <?php
 
-	echo "Olá Mundo 456!";
+	echo "Olá Mundo 456 - 9999!";
 
-	echo "Fausto deu ruim;
+	echo "Fausto deu boa;
 
 ?>
